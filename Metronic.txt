@@ -1,0 +1,21 @@
+For demo:-(Metronic Theme Use)
+=======================================================
+http://192.168.1.46/themedemo/product/list
+
+Email : hiral.dabhi@iflair.com
+Password : Admin@123
+
+
+=======================================================
+
+http://192.168.1.222/metronic/user/user_list
+
+Email : priya@gmail.com
+Password : 12345678
+
+23456789
+======================================================
+http://192.168.1.222/crud_laravel/public/home
+http://192.168.1.222/crud_laravel/public/shop/home
+Email: priya20@gmail.com
+Password: 12345678
